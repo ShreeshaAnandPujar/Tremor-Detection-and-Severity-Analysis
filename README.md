@@ -10,7 +10,7 @@ and generates a downloadable PDF tremor report with patient details and graphs.
 - MediaPipe hand landmark tracking
 - Live tremor graph
 - Severity classification (Normal / Mild / Severe)
-UPCOMING [APK CONVERTION]
+
 
 
 ## Tech Stack
